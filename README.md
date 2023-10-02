@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BreVans9
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI & Medicine
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ###
 - 📫 How to reach me ... you can't at the moment
