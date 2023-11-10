@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BreVans9
 - 👀 I’m interested in AI & Medicine
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL and Git
 - 💞️ I’m looking to collaborate on ###
 - 📫 How to reach me ... you can't at the moment
 -    I'm learning git :) LFG
