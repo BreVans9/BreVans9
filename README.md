@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BreVans
+- 👋 Hi, I’m @Bre
 - 👀 I’m interested in AI & Medicine
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on X(former Twitter)
